@@ -1,0 +1,2 @@
+echo "Hello world"
+echo"Hi, how are you"
